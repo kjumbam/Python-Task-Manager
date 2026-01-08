@@ -53,7 +53,7 @@ Built using AI-assisted development ("vibe coding") - demonstrating how AI tools
 ## Author
 
 **Kiwo Jumbam**
-- Portfolio: [portfolio link]
+- Portfolio: https://portfolio-website-phi-self-23.vercel.app 
 - LinkedIn: [linkedin.com/in/kiwo-jumbam-80ab6537b](https://www.linkedin.com/in/kiwo-jumbam-80ab6537b/)
 - Email: kjumbam@yahoo.com
 
